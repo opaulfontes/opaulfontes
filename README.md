@@ -6,6 +6,8 @@ Então estou aprendendo a codar e escolhi fazer o curso de Desenvolvimento de So
 
 Tenho interesse em atuar como Desenvolvedor de Sofware back-end (node.js).
 
+Possuo conhecimentos em javaScript, nodejs, sqlserver.
+
 <!---
 opaulfontes/opaulfontes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
